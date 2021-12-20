@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="36606 7015.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hey0000" x="12" y="12" width="228" height="280" frameX="0" frameY="0" frameWidth="231" frameHeight="280"/>
+	<SubTexture name="hey0001" x="250" y="12" width="227" height="279" frameX="-4" frameY="-1" frameWidth="231" frameHeight="280"/>
+	<SubTexture name="hey0002" x="487" y="12" width="227" height="279" frameX="-4" frameY="-1" frameWidth="231" frameHeight="280"/>
+	<SubTexture name="idle0000" x="724" y="12" width="225" height="279"/>
+	<SubTexture name="idle0001" x="724" y="12" width="225" height="279"/>
+	<SubTexture name="idle0002" x="724" y="12" width="225" height="279"/>
+	<SubTexture name="idle0003" x="724" y="12" width="225" height="279"/>
+	<SubTexture name="idle0004" x="724" y="12" width="225" height="279"/>
+	<SubTexture name="idle0005" x="724" y="12" width="225" height="279"/>
+	<SubTexture name="idle0006" x="724" y="12" width="225" height="279"/>
+	<SubTexture name="idle0007" x="724" y="12" width="225" height="279"/>
+	<SubTexture name="move 10000" x="959" y="12" width="226" height="278" frameX="-1" frameY="0" frameWidth="227" frameHeight="278"/>
+	<SubTexture name="move 10001" x="1195" y="12" width="225" height="278" frameX="0" frameY="0" frameWidth="227" frameHeight="278"/>
+	<SubTexture name="move 20000" x="1430" y="12" width="212" height="286" frameX="-6" frameY="0" frameWidth="224" frameHeight="286"/>
+	<SubTexture name="move 20001" x="1652" y="12" width="224" height="277" frameX="0" frameY="-9" frameWidth="224" frameHeight="286"/>
+	<SubTexture name="move 30000" x="12" y="308" width="224" height="270" frameX="0" frameY="-12" frameWidth="224" frameHeight="282"/>
+	<SubTexture name="move 30001" x="246" y="308" width="224" height="282"/>
+	<SubTexture name="move 40000" x="480" y="308" width="225" height="278" frameX="0" frameY="0" frameWidth="228" frameHeight="278"/>
+	<SubTexture name="move 40001" x="715" y="308" width="224" height="278" frameX="-4" frameY="0" frameWidth="228" frameHeight="278"/>
+</TextureAtlas>
