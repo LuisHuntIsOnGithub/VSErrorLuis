@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				-299
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				-301
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "move 4",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				-294
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "move 3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				-287
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "move 2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				-301
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "move 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-84,
+				-297
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/errorluis",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "error",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}
